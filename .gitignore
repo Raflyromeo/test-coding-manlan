@@ -1,0 +1,25 @@
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
